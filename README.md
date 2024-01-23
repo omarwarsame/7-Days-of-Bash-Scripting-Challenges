@@ -6,7 +6,8 @@
 
 ## About the Challenge
 
-Welcome to the BashBlaze: 7 Days of Bash Scripting Challenge! 🚀 This week-long challenge is designed to introduce you to the fundamentals of Bash scripting and sharpen your skills in a fast-paced, engaging format.
+Welcome to this 7 Days of Bash Scripting Challenge! 
+🚀 This week-long challenge is designed to introduce you to the fundamentals of Bash scripting and sharpen your skills in a fast-paced, engaging format.
 
 Whether you're a beginner or an experienced developer looking to expand your skillset, this challenge will provide you with daily scripting exercises and real-world examples to enhance your understanding and proficiency in Bash.
 
