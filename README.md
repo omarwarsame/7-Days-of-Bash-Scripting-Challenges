@@ -1,4 +1,4 @@
-# BashBlaze: 7 Days of Bash Scripting Challenge
+7 Days of Bash Scripting Challenge
 
 > Learn X in Y days
 > Where X=bash
